@@ -1,0 +1,6 @@
+[package]
+name = "rustcat"
+version = "0.1.0"
+authors = ["Yuta Shimakawa <banana.umai@gmail.com>"]
+
+[dependencies]
